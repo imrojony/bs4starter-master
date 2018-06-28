@@ -1,3 +1,7 @@
+body {
+  background: #333;
+  color: #fff; }
+
 .navbar {
   border-bottom: 3px solid #008ed6;
   background: #192b2c;

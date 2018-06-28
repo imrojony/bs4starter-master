@@ -1,5 +1,15 @@
+$body-bg: #333;
+$font-color:#fff;
+$primary-color:#008ed6;
+
+body{
+  background:$body-bg;
+  color: $font-color;
+
+}
+
 .navbar{
-  border-bottom: 3px solid #008ed6;
+  border-bottom: 3px solid $primary-color;
   background:#192b2c;
   capacity: 0.7;
 }
