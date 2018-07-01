@@ -6,3 +6,18 @@ body {
   border-bottom: 3px solid #008ed6;
   background: #192b2c;
   capacity: 0.7; }
+
+#home-section {
+  background: url("../img/dox.jpg") no-repeat center top;
+  background-size: cover;
+  min-height: 700px;
+  background-attachment: fixed; }
+  #home-section .fa {
+    background: #fff;
+    color: #008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px; }
+  #home-section .home-inner {
+    padding-top: 150px;
+    padding-bottom: 50px; }

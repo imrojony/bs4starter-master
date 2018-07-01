@@ -1,6 +1,7 @@
 $body-bg: #333;
 $font-color:#fff;
 $primary-color:#008ed6;
+$icon-font-size:30px;
 
 body{
   background:$body-bg;
@@ -12,4 +13,21 @@ body{
   border-bottom: 3px solid $primary-color;
   background:#192b2c;
   capacity: 0.7;
+}
+#home-section{
+  background: url("../img/dox.jpg") no-repeat center top;
+  background-size: cover;
+  min-height: 700px;
+  background-attachment: fixed;
+  .fa{
+    background: #fff;
+    color: $primary-color;
+    padding: 4px;
+    font-size: $icon-font-size;
+    border-radius: 5px;
+  }
+  .home-inner{
+    padding-top:150px;
+    padding-bottom: 50px;
+  }
 }
