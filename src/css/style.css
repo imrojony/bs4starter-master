@@ -18,6 +18,14 @@ body {
     padding: 4px;
     font-size: 30px;
     border-radius: 5px; }
-  #home-section .home-inner {
-    padding-top: 150px;
-    padding-bottom: 50px; }
+
+.home-inner {
+  padding-top: 150px;
+  padding-bottom: 50px; }
+
+#Explore-main-Section .fa {
+  background: #fff;
+  color: #008ed6;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px; }
