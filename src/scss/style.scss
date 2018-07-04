@@ -32,7 +32,16 @@ body{
     padding-top:150px;
     padding-bottom: 50px;
   }
+#create-main-section{
+  .fa{
+    font-size: $icon-font-size;
+    color: $primary-color;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+  }
 
+}
 #Explore-main-Section {
   .fa{
     background: #fff;
